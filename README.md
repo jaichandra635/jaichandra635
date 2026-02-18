@@ -2,9 +2,7 @@
 
 📈 Passionate about working with data and empowering businesses to make informed decisions. 💼
 
-🐍 Proficient in SQL and Excel, currently honing my Python skills for data analysis. 🔍
-
-✨ Focused on mastering the magic of Power BI. 🔮
+🐍 Proficient in SQL, Excel, Power BI, Power Point, currently honing my Python skills for data analysis. 🔍
 
 🎓 Always eager to learn and welcome advice or collaborations on data analysis projects. 🤝
 
